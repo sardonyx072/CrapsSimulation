@@ -21,7 +21,7 @@ import java.util.ArrayList;
  */
 public class TestCraps
 {
-	public static final int NUM_TO_PLAY = 1000000;
+	public static final int NUM_TO_PLAY = 10000000;
 
 	/**
 	 * CrapsGame represents a single game of craps, which contains a single Dice
